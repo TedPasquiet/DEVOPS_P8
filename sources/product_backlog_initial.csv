@@ -1,0 +1,20 @@
+id;ticket;priorite
+PB01;Problèmes de lenteur lors du chargement des images;Critique
+PB02;Instabilité de l'application lors des pics de trafic;Critique
+PB03;Erreurs fréquentes dans l'affichage des données;Critique
+PB04;Délais de traitement des tickets trop longs;Élevée
+PB05;Notifications d'alerte non reçues;Élevée
+PB06;Problèmes d'intégration avec des outils tiers;Élevée
+PB07;Difficulté de navigation dans l'interface utilisateur;Moyenne
+PB08;Mauvaise gestion des erreurs d'application;Critique
+PB09;Absence de certaines fonctionnalités demandées;Élevée
+PB10;Failles de sécurité signalées par les utilisateurs;Critique
+PB11;Problèmes de synchronisation des données;Élevée
+PB12;Rapports générés incorrectement;Élevée
+PB13;Difficultés avec le processus de connexion;Moyenne
+PB14;Performances dégradées lors du traitement des images;Critique
+PB15;Incohérences entre les versions de l'application;Élevée
+PB16;Problèmes de compatibilité avec les navigateurs;Moyenne
+PB17;Difficultés d'exportation des données;Élevée
+PB18;Problèmes de performance sur les appareils mobiles;Critique
+PB19;Manque de support pour les formats de données externes;Élevée
